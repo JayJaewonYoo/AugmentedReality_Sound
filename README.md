@@ -7,3 +7,4 @@ Download the .apk file in the repository found under release directly through th
 ## Notes
 - The application gains latency issues when the user attempts to use the application again after locking the phone screen but leaving the application on. After locking the phone screen, close and open the application. 
 - This application was built by Jay Jaewon Yoo for Steve Mann's "Mersivity" project. 
+- The source code for this app will not be made public due to potential business ventures with Steve Mann. 
